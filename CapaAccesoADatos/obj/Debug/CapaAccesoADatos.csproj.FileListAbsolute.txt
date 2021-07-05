@@ -1,0 +1,12 @@
+C:\Users\rodri\source\repos\ABMFinal\CapaAccesoADatos\bin\Debug\CapaAccesoADatos.dll
+C:\Users\rodri\source\repos\ABMFinal\CapaAccesoADatos\bin\Debug\CapaAccesoADatos.pdb
+C:\Users\rodri\source\repos\ABMFinal\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ABMFinal\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.dll
+C:\Users\rodri\source\repos\ABMFinal\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.pdb
+C:\Users\rodri\source\repos\ABMFinal\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.csprojAssemblyReference.cache
+C:\rodri\vs2019\2do1era\repos\ABMFinalAccess\CapaAccesoADatos\bin\Debug\CapaAccesoADatos.dll
+C:\rodri\vs2019\2do1era\repos\ABMFinalAccess\CapaAccesoADatos\bin\Debug\CapaAccesoADatos.pdb
+C:\rodri\vs2019\2do1era\repos\ABMFinalAccess\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.csproj.AssemblyReference.cache
+C:\rodri\vs2019\2do1era\repos\ABMFinalAccess\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.csproj.CoreCompileInputs.cache
+C:\rodri\vs2019\2do1era\repos\ABMFinalAccess\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.dll
+C:\rodri\vs2019\2do1era\repos\ABMFinalAccess\CapaAccesoADatos\obj\Debug\CapaAccesoADatos.pdb
